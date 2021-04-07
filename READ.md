@@ -1,1 +1,1 @@
-Algorithm origionally by Dr. Aaron Montag.
+Algorithm originally by Dr. Aaron Montag.
